@@ -1,6 +1,5 @@
 
 # CV Joeri Verlinden
-============
 
 ## _Personalia_
 
@@ -32,14 +31,38 @@ Driving License B
   Tilburg University  
   average grade: 7.0  
 * 2007-2013  
-  VWO Profile Economics & Management  
+  VWO _Profile Economics & Management_  
   Sg.St Ursula  
 
 ## _Work Experience_
+* 2015-present    
+  Chairman Competititon Committee   
+  T.C. Helios        
+  Responsible for all Competition activities of a club with 335 members. 85 members who in the Dutch Competitie. In the major tournament 
+  T.C. Helios there are around 150 members each year.
 * 2012-present  
-  Employee on Facility Services Stichting Daelzicht 
-* 2012-present  
-  Employee on Logistics Services Stichting Daelzicht
-* 2014-present  
-  Chairman Competititon Committee T.C. Helios
+  Employee on Facility Services & Logistics Services
+  Stichting Daelzicht
+* 2015   
+  Sales Employee
+  Gamma Roermond
+* 2013-2014    
+  Freshmen Committee     
+  Asset Economics  
+  Responsible for organizing activities for the first-year students of the Bachelor programs Economie & Bedrijfseconomie and Economics. 
+* 2012-2013     
+  Tutor History   
+  Sg.St Ursula  
+* 2011-2013  
+  Mailman  
+  Around 10 hours a week  
+  Persgroep Distributie
+* 2011-2012    
+  Tennis trainer Assistant  
+  T.C. Helios  
+* 2010    
+  Employee Puma   
+  Part-Time in Summer Holiday  
+  
+  
 
