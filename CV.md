@@ -42,9 +42,9 @@ Driving License B
 * 2012-present  
   Employee on Facility Services & Logistics Services
   Stichting Daelzicht
-* 2015   
-  Sales Employee
-  Gamma Roermond
+* 2015     
+  Sales Employee  
+  Gamma Roermond  
 * 2013-2014    
   Freshmen Committee     
   Asset Economics  
