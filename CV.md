@@ -63,5 +63,14 @@ Driving License B
   Employee Puma   
   Part-Time in Summer Holiday  
   
-  
+## _Skills_ 
+* Dutch  
+  Native speaking
+* English  
+  Sufficiently spoken & written  
+* German  
+  Sufficient reading    
+* Word & Excel  
+  Proficient in using the two programs.  
+
 
