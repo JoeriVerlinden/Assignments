@@ -34,9 +34,9 @@ Driving License B
 * 2007-2013
   VWO Profile Economics & Management
   Sg.St Ursula 
-===========
+
 ## _Work Experience_
 * Employee on Facility Services Stichting Daelzicht 2013-present
 * Employee on Logistics Services Stichting Daelzicht 2013-present
 * Chairman Competititon Committee T.C. Helios 2014-present
-===========
+
