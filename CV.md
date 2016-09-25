@@ -24,19 +24,22 @@ Gender: Male
 Driving License B
 
 ## _Education_
-* 2016-
-  Master Economics
-  Tilburg University
-* 2013-2016
-  Bachelor Economics & Business Economics  
-  Tilburg University
-  average grade: 7.0
-* 2007-2013
-  VWO Profile Economics & Management
-  Sg.St Ursula 
+* 2016-  
+  Master Economics    
+  Tilburg University  
+* 2013-2016  
+  Bachelor Economics & Business Economics    
+  Tilburg University  
+  average grade: 7.0  
+* 2007-2013  
+  VWO Profile Economics & Management  
+  Sg.St Ursula  
 
 ## _Work Experience_
-* Employee on Facility Services Stichting Daelzicht 2013-present
-* Employee on Logistics Services Stichting Daelzicht 2013-present
-* Chairman Competititon Committee T.C. Helios 2014-present
+* 2012-present  
+  Employee on Facility Services Stichting Daelzicht 
+* 2012-present  
+  Employee on Logistics Services Stichting Daelzicht
+* 2014-present  
+  Chairman Competititon Committee T.C. Helios
 
