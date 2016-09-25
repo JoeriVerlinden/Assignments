@@ -38,7 +38,7 @@ Driving License B
 * 2015-present    
   Chairman Competititon Committee   
   T.C. Helios        
-  Responsible for all Competition activities of a club with 335 members. 85 members who in the Dutch Competitie. In the major tournament 
+  Responsible for all Competition activities of a club with 335 members. 85 members who participate in the Dutch Competitie. In the major tournament 
   T.C. Helios there are around 150 members each year.
 * 2012-present  
   Employee on Facility Services & Logistics Services
