@@ -69,7 +69,7 @@ Driving License B
 * English  
   Sufficiently spoken & written  
 * German  
-  Sufficient reading    
+  Sufficient in reading    
 * Word & Excel  
   Proficient in using the two programs.  
 
