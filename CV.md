@@ -23,7 +23,7 @@ Gender: Male
 Driving License B
 
 ## _Education_
-* 2016-  
+* 2016-present  
   Master Economics    
   Tilburg University  
 * 2013-2016  
